@@ -10,4 +10,5 @@ public class Car implements Vehicle{
     public void stop() {
         System.out.println("Car stop");
     }
+
 }
