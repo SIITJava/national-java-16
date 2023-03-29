@@ -4,4 +4,8 @@ public interface Worker {
     void work();
 
     void workForMoney(double amount);
+
+    default void defMethod(){
+
+    }
 }
