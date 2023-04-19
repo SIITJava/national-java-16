@@ -27,7 +27,7 @@ public class VacationTest {
     }
 
     @Test
-    // @Disabled
+    //  @Disabled
     public void sleepIn_weekday_vacation(){
         Vacation vacation = new Vacation();
         Assertions.assertTrue(vacation.sleepIn(true, true));
