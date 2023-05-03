@@ -1,0 +1,10 @@
+Managementul cheltuielilor unui utilizator
+Va contine o baza de date cu:
+-venituri 
+-cheltuieli
+-categoriile cheltuielilor
+
+-utilizatorul isi poate adauga venituri, cheltuieli
+-isi poate vedea cheltuielile pe o perioada de timp, pe categorii
+
+
