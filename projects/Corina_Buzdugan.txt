@@ -1,0 +1,13 @@
+Chores app for children
+
+- groups of age: 7-9, 10-12, 13-14 that should be selected in order to display available chores;
+
+- for each day of the week, the user needs to submit/select at least 5 chores they have completed in order to receive a reward by the end of the day;
+
+- possibility to report the daily reward until the end of the week and cumulate them;
+
+- during weekends and holidays there are only 3 mandatory chores;
+
+- send report by the end of the week to the parent;
+
+- notify user of daily deadline (again by age groups, 7-9 year 7 PM, 10-12 years 8 PM, 13-14 years 8:30 PM);
